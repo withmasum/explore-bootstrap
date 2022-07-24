@@ -7,3 +7,6 @@ Need to more learining
 more.html 288 lines the thumbnail isn't working yet!
 
 Need more learning about slider.html 
+
+
+
